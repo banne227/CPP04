@@ -68,19 +68,6 @@ Ajout d’une classe `Brain` pour gérer un tableau d’`ideas` dans `Dog` et `C
 
 ---
 
-### 🔹 ex03 — Deep Copy
-
-**Description :**  
-Implémentation d’une **deep copy** pour éviter le partage non désiré de ressources entre objets.
-
-**Compétences travaillées :**
-- Surcharge des **constructeurs de copie**
-- Surcharge des **operateurs `=`**
-- Prévention des **fuites mémoire** et des **double frees**
-- Approche rigoureuse de la **gestion des ressources**
-
----
-
 ## 🚀 Compétences globales mises en pratique
 
 - Compréhension et utilisation du **polymorphisme**
